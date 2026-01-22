@@ -31,3 +31,6 @@ h2{
 #about:hover{
     background-color: rgb(94, 88, 88);
 }
+span{
+    color: red;
+}
