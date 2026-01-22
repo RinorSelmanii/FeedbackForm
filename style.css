@@ -19,3 +19,15 @@ footer,header{
 h2{
     color: white;
 }
+#about{
+    display: inline-block;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    padding: 10px;
+    font-family: arial, sans-serif;
+}
+#about:hover{
+    background-color: rgb(94, 88, 88);
+}
